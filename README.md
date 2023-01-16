@@ -1,2 +1,2 @@
 # DMD-Pattern-Control
-A Library for streaming binary patterns on a DMD
+A Library for streaming binary patterns on a DMD. Developed based on OpenGL.
